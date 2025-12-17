@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Max Unity";
-const char* password = "@01234567";
+const char* ssid = "Enter Your Wifi Name/SSID";
+const char* password = "WfFi Pas";
 
 const int ledPin = 2;
 bool ledState = false;
